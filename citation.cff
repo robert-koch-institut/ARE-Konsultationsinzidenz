@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+type: dataset
+title: ARE-Konsultationsinzidenz
+abstract: >-
+  Zur Einschätzung der Krankheitslast akuter Atemwegsinfektionen im ambulanten
+  Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen
+  Erkrankung pro 100.000 Einwohner mit Daten aus einem Netzwerk
+  primärversorgender Praxen in Deutschland wöchentlich berechnet
+  (ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von
+  akuten Atemwegserkrankungen, die zu einem Arztbesuch führen, sind essenziell
+  für die Einschätzung der epidemiologischen Lage und die Entwicklung und
+  Anpassung von Präventionsstrategien.  
+date-released: '2023-09-14'
+keywords:
+  - Akute Atemwegserkrankungen
+  - ARE
+  - Primary Care
+  - Erstversorgung
+  - Niedergelassene Ärzte
+  - Konsultationsinzidenz
+  - Patient Admission
+  - Patientenaufnahme
+  - Respiratory Tract Infections
+  - Atemwegsinfektionen
+  - Syndromische Surveillance
+  - Sentinel Surveillance
+  - Ambulante Behandlung
+  - Ambulatory Care
+  - SEEDARE
+  - Pandemic Preparedness
+  - Arbeitsgemeinschaft Influenza
+  - Deutschland
+  - Germany
+  - RKI
+  - Open Data
+  - Gesundheitsberichterstattung
+  - Epidemiologie
+  - Public health surveillance
+  - Epidemiology
+message: Cite me!
+url: https://www.github.io/robert-koch-institut/ARE-Konsultationsinzidenz
+license: CC-BY-4.0
+doi: 10.5281/zenodo.8340316
+authors:
+  - family-names: Goerlitz
+    given-names: Luise
+    affiliation: Robert Koch-Institut
+    orcid: 0009-0004-3024-6797
+  - family-names: Tolksdorf
+    given-names: Kristin
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0002-8712-6399
+  - family-names: Buda
+    given-names: Silke
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0003-3448-3357
+  - family-names: Prahm
+    given-names: Kerstin
+    affiliation: Robert Koch-Institut
+    orcid: 0009-0005-7038-4315
+  - family-names: Preuß
+    given-names: Ute
+    affiliation: Robert Koch-Institut
+  - family-names: Krupka
+    given-names: Simon
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0003-1941-1734
+  - family-names: Buchholz
+    given-names: Udo
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0001-6597-3995
+  - family-names: Haas
+    given-names: Walter
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0003-3413-1431
