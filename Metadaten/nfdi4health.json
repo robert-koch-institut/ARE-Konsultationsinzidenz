@@ -1,316 +1,291 @@
 {
-  "data": {
-    "type": "studyhub_resources",
-    "attributes": {
-      "commit_button": "Submit",
-      "content_blobs": [
-        {
-          "content_type": "text/html",
-          "url": "https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz",
-          "original_filename": "Github Link"
-        }
-      ],
-      "resource": {
-        "resource_type": "Dataset",
+  "resource": {
+    "collection": [
+      "Robert Koch-Institut"
+    ],
+    "ids": [
+      {
+        "identifier": "10.5281/zenodo.8365628",
+        "type": "DOI",
         "resource_type_general": "Dataset",
-        "resource_titles": [
-          {
-            "title": "ARE-Konsultationsinzidenz",
-            "title_language": "DE (German)"
-          }
-        ],
-        "resource_acronyms": [],
-        "resource_descriptions": [
-          {
-            "description": "Zur Einschätzung der Krankheitslast akuter Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung pro 100.000 Einwohner mit Daten aus einem Netzwerk primärversorgender Praxen in Deutschland wöchentlich berechnet (ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen, die zu einem Arztbesuch führen, sind essenziell für die Einschätzung der epidemiologischen Lage und die Entwicklung und Anpassung von Präventionsstrategien.  ",
-            "description_language": "DE (German)"
-          }
-        ],
-        "resource_format": "",
-        "resource_keywords": [
-          {
-            "resource_keywords_label": "Akute Atemwegserkrankungen",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "ARE",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Primary Care",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Erstversorgung",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Niedergelassene Ärzte",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Konsultationsinzidenz",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Patient Admission",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Patientenaufnahme",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Respiratory Tract Infections",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Atemwegsinfektionen",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Syndromische Surveillance",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Sentinel Surveillance",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Ambulante Behandlung",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Ambulatory Care",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "SEEDARE",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Pandemic Preparedness",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Arbeitsgemeinschaft Influenza",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Deutschland",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Germany",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "RKI",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Open Data",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Gesundheitsberichterstattung",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Epidemiologie",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Public health surveillance",
-            "resource_keywords_label_code": ""
-          },
-          {
-            "resource_keywords_label": "Epidemiology",
-            "resource_keywords_label_code": ""
-          }
-        ],
-        "resource_language": [
-          "DE (German)"
-        ],
-        "resource_version": "2023-09-14",
-        "resource_web_page": "https://www.github.io/robert-koch-institut/ARE-Konsultationsinzidenz",
-        "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)",
-        "resource_use_rights_description": "",
-        "resource_use_rights_authors_confirmation_1": true,
-        "resource_use_rights_authors_confirmation_2": true,
-        "resource_use_rights_authors_confirmation_3": true,
-        "resource_use_rights_support_by_licencing": true,
-        "provenance": {
-          "data_source": ""
-        },
-        "roles": [
-          {
-            "role_type": "Creator/Author",
-            "role_email": "",
-            "role_phone": "",
-            "role_affiliation_address": "",
-            "role_affiliation_web_page": "",
-            "role_affiliation_identifiers": [],
-            "role_name_type": "Personal",
-            "role_name_personal_title": "Other",
-            "role_name_personal_given_name": "Luise",
-            "role_name_personal_family_name": "Goerlitz",
-            "role_name_identifiers": [
-              {
-                "role_name_identifier": "0009-0004-3024-6797",
-                "role_name_identifier_scheme": "ORCID"
-              }
-            ]
-          },
-          {
-            "role_type": "Creator/Author",
-            "role_email": "",
-            "role_phone": "",
-            "role_affiliation_address": "",
-            "role_affiliation_web_page": "",
-            "role_affiliation_identifiers": [],
-            "role_name_type": "Personal",
-            "role_name_personal_title": "Other",
-            "role_name_personal_given_name": "Kristin",
-            "role_name_personal_family_name": "Tolksdorf",
-            "role_name_identifiers": [
-              {
-                "role_name_identifier": "0000-0002-8712-6399",
-                "role_name_identifier_scheme": "ORCID"
-              }
-            ]
-          },
-          {
-            "role_type": "Creator/Author",
-            "role_email": "",
-            "role_phone": "",
-            "role_affiliation_address": "",
-            "role_affiliation_web_page": "",
-            "role_affiliation_identifiers": [],
-            "role_name_type": "Personal",
-            "role_name_personal_title": "Other",
-            "role_name_personal_given_name": "Silke",
-            "role_name_personal_family_name": "Buda",
-            "role_name_identifiers": [
-              {
-                "role_name_identifier": "0000-0003-3448-3357",
-                "role_name_identifier_scheme": "ORCID"
-              }
-            ]
-          },
-          {
-            "role_type": "Creator/Author",
-            "role_email": "",
-            "role_phone": "",
-            "role_affiliation_address": "",
-            "role_affiliation_web_page": "",
-            "role_affiliation_identifiers": [],
-            "role_name_type": "Personal",
-            "role_name_personal_title": "Other",
-            "role_name_personal_given_name": "Kerstin",
-            "role_name_personal_family_name": "Prahm",
-            "role_name_identifiers": [
-              {
-                "role_name_identifier": "0009-0005-7038-4315",
-                "role_name_identifier_scheme": "ORCID"
-              }
-            ]
-          },
-          {
-            "role_type": "Creator/Author",
-            "role_email": "",
-            "role_phone": "",
-            "role_affiliation_address": "",
-            "role_affiliation_web_page": "",
-            "role_affiliation_identifiers": [],
-            "role_name_type": "Personal",
-            "role_name_personal_title": "Other",
-            "role_name_personal_given_name": "Ute",
-            "role_name_personal_family_name": "Preuß",
-            "role_name_identifiers": []
-          },
-          {
-            "role_type": "Creator/Author",
-            "role_email": "",
-            "role_phone": "",
-            "role_affiliation_address": "",
-            "role_affiliation_web_page": "",
-            "role_affiliation_identifiers": [],
-            "role_name_type": "Personal",
-            "role_name_personal_title": "Other",
-            "role_name_personal_given_name": "Simon",
-            "role_name_personal_family_name": "Krupka",
-            "role_name_identifiers": [
-              {
-                "role_name_identifier": "0000-0003-1941-1734",
-                "role_name_identifier_scheme": "ORCID"
-              }
-            ]
-          },
-          {
-            "role_type": "Creator/Author",
-            "role_email": "",
-            "role_phone": "",
-            "role_affiliation_address": "",
-            "role_affiliation_web_page": "",
-            "role_affiliation_identifiers": [],
-            "role_name_type": "Personal",
-            "role_name_personal_title": "Other",
-            "role_name_personal_given_name": "Udo",
-            "role_name_personal_family_name": "Buchholz",
-            "role_name_identifiers": [
-              {
-                "role_name_identifier": "0000-0001-6597-3995",
-                "role_name_identifier_scheme": "ORCID"
-              }
-            ]
-          },
-          {
-            "role_type": "Creator/Author",
-            "role_email": "",
-            "role_phone": "",
-            "role_affiliation_address": "",
-            "role_affiliation_web_page": "",
-            "role_affiliation_identifiers": [],
-            "role_name_type": "Personal",
-            "role_name_personal_title": "Other",
-            "role_name_personal_given_name": "Walter",
-            "role_name_personal_family_name": "Haas",
-            "role_name_identifiers": [
-              {
-                "role_name_identifier": "0000-0003-3413-1431",
-                "role_name_identifier_scheme": "ORCID"
-              }
-            ]
-          }
-        ],
-        "ids": [
-          {
-            "id_identifier": "https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz",
-            "id_date": "",
-            "id_type": "URL",
-            "id_relation_type": "describes",
-            "id_resource_type_general": "Dataset"
-          },
-          {
-            "id_identifier": "10.5281/zenodo.8340316",
-            "id_date": "",
-            "id_type": "DOI",
-            "id_relation_type": "has part",
-            "id_resource_type_general": "Dataset"
-          }
-        ]
+        "relation_type": "A references B"
+      },
+      {
+        "identifier": "https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz",
+        "relation_type": "A references B",
+        "type": "URL",
+        "resource_type_general": "Dataset"
       }
+    ],
+    "provenance": {
+      "data_source": "Automatically uploaded: Other"
     },
-    "relationships": {
-      "projects": {
-        "data": [
-          {
-            "id": "1",
-            "type": "projects"
-          }
-        ]
+    "resource_classification": {
+      "resource_type": "Dataset",
+      "resource_type_general": "Dataset"
+    },
+    "resource_description_english": {
+      "language": "EN (English)",
+      "text": "no english description available"
+    },
+    "resource_descriptions_non_english": [
+      {
+        "language": "DE (German)",
+        "text": "Zur Einschätzung der Krankheitslast akuter Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung pro 100.000 Einwohner mit Daten aus einem Netzwerk primärversorgender Praxen in Deutschland wöchentlich berechnet (ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen, die zu einem Arztbesuch führen, sind essenziell für die Einschätzung der epidemiologischen Lage und die Entwicklung und Anpassung von Präventionsstrategien.  "
       }
-    }
+    ],
+    "resource_keywords": [
+      {
+        "resource_keywords_label": "Akute Atemwegserkrankungen"
+      },
+      {
+        "resource_keywords_label": "ARE"
+      },
+      {
+        "resource_keywords_label": "Primary Care"
+      },
+      {
+        "resource_keywords_label": "Erstversorgung"
+      },
+      {
+        "resource_keywords_label": "Niedergelassene Ärzte"
+      },
+      {
+        "resource_keywords_label": "Konsultationsinzidenz"
+      },
+      {
+        "resource_keywords_label": "Patient Admission"
+      },
+      {
+        "resource_keywords_label": "Patientenaufnahme"
+      },
+      {
+        "resource_keywords_label": "Respiratory Tract Infections"
+      },
+      {
+        "resource_keywords_label": "Atemwegsinfektionen"
+      },
+      {
+        "resource_keywords_label": "Syndromische Surveillance"
+      },
+      {
+        "resource_keywords_label": "Sentinel Surveillance"
+      },
+      {
+        "resource_keywords_label": "Ambulante Behandlung",
+        "resource_keywords_label_code": "D000553"
+      },
+      {
+        "resource_keywords_label": "Ambulatory Care",
+        "resource_keywords_label_code": "D000553"
+      },
+      {
+        "resource_keywords_label": "SEEDARE"
+      },
+      {
+        "resource_keywords_label": "Pandemic Preparedness"
+      },
+      {
+        "resource_keywords_label": "Arbeitsgemeinschaft Influenza"
+      },
+      {
+        "resource_keywords_label": "Deutschland"
+      },
+      {
+        "resource_keywords_label": "Germany"
+      },
+      {
+        "resource_keywords_label": "RKI"
+      },
+      {
+        "resource_keywords_label": "Open Data"
+      },
+      {
+        "resource_keywords_label": "Gesundheitsberichterstattung",
+        "resource_keywords_label_code": "info:ddc/22/de//614.42"
+      },
+      {
+        "resource_keywords_label": "Epidemiologie",
+        "resource_keywords_label_code": "info:ddc/22/de//614.4"
+      },
+      {
+        "resource_keywords_label": "Public health surveillance",
+        "resource_keywords_label_code": "info:ddc/22/eng//614.42"
+      },
+      {
+        "resource_keywords_label": "Epidemiology",
+        "resource_keywords_label_code": "info:ddc/22/eng//614.4"
+      }
+    ],
+    "resource_languages": [
+      "DE (German)"
+    ],
+    "resource_non_study_details": {
+      "resource_use_rights": {
+        "resource_use_rights_confirmations": {
+          "resource_use_rights_confirmation_authority": true,
+          "resource_use_rights_confirmation_irrevocability": true,
+          "resource_use_rights_confirmation_terms": true,
+          "resource_use_rights_support_by_licensing": true
+        },
+        "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
+      },
+      "resource_version": "2023-09-19"
+    },
+    "resource_titles": [
+      {
+        "text": "ARE-Konsultationsinzidenz",
+        "language": "DE (German)"
+      }
+    ],
+    "resource_web_page": "https://www.github.io/robert-koch-institut/ARE-Konsultationsinzidenz",
+    "roles": [
+      {
+        "role_affiliations": [
+          {
+            "role_affiliation_name": "Robert Koch-Institut"
+          }
+        ],
+        "role_name_type": "Personal",
+        "role_name_personal": {
+          "role_name_personal_type": "Creator/Author",
+          "role_name_personal_given_name": "Luise",
+          "role_name_personal_family_name": "Goerlitz",
+          "role_name_identifiers": [
+            {
+              "identifier": "0009-0004-3024-6797",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "role_affiliations": [
+          {
+            "role_affiliation_name": "Robert Koch-Institut"
+          }
+        ],
+        "role_name_type": "Personal",
+        "role_name_personal": {
+          "role_name_personal_type": "Creator/Author",
+          "role_name_personal_given_name": "Kristin",
+          "role_name_personal_family_name": "Tolksdorf",
+          "role_name_identifiers": [
+            {
+              "identifier": "0000-0002-8712-6399",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "role_affiliations": [
+          {
+            "role_affiliation_name": "Robert Koch-Institut"
+          }
+        ],
+        "role_name_type": "Personal",
+        "role_name_personal": {
+          "role_name_personal_type": "Creator/Author",
+          "role_name_personal_given_name": "Kerstin",
+          "role_name_personal_family_name": "Prahm",
+          "role_name_identifiers": [
+            {
+              "identifier": "0009-0005-7038-4315",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "role_affiliations": [
+          {
+            "role_affiliation_name": "Robert Koch-Institut"
+          }
+        ],
+        "role_name_type": "Personal",
+        "role_name_personal": {
+          "role_name_personal_type": "Creator/Author",
+          "role_name_personal_given_name": "Ute",
+          "role_name_personal_family_name": "Preuß"
+        }
+      },
+      {
+        "role_affiliations": [
+          {
+            "role_affiliation_name": "Robert Koch-Institut"
+          }
+        ],
+        "role_name_type": "Personal",
+        "role_name_personal": {
+          "role_name_personal_type": "Creator/Author",
+          "role_name_personal_given_name": "Simon",
+          "role_name_personal_family_name": "Krupka",
+          "role_name_identifiers": [
+            {
+              "identifier": "0000-0003-1941-1734",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "role_affiliations": [
+          {
+            "role_affiliation_name": "Robert Koch-Institut"
+          }
+        ],
+        "role_name_type": "Personal",
+        "role_name_personal": {
+          "role_name_personal_type": "Creator/Author",
+          "role_name_personal_given_name": "Udo",
+          "role_name_personal_family_name": "Buchholz",
+          "role_name_identifiers": [
+            {
+              "identifier": "0000-0001-6597-3995",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "role_affiliations": [
+          {
+            "role_affiliation_name": "Robert Koch-Institut"
+          }
+        ],
+        "role_name_type": "Personal",
+        "role_name_personal": {
+          "role_name_personal_type": "Creator/Author",
+          "role_name_personal_given_name": "Walter",
+          "role_name_personal_family_name": "Haas",
+          "role_name_identifiers": [
+            {
+              "identifier": "0000-0003-3413-1431",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "role_affiliations": [
+          {
+            "role_affiliation_name": "Robert Koch-Institut"
+          }
+        ],
+        "role_name_type": "Personal",
+        "role_name_personal": {
+          "role_name_personal_type": "Creator/Author",
+          "role_name_personal_given_name": "Silke",
+          "role_name_personal_family_name": "Buda",
+          "role_name_identifiers": [
+            {
+              "identifier": "0000-0003-3448-3357",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      }
+    ]
   }
 }

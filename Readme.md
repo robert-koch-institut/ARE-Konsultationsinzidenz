@@ -6,13 +6,13 @@ Nordufer 20
 13353 Berlin  
   
   
-[Luise Goerlitz](https://orcid.org/0009-0004-3024-6797), [Kristin Tolksdorf](https://orcid.org/0000-0002-8712-6399), [Silke Buda](https://orcid.org/0000-0003-3448-3357), [Kerstin Prahm](https://orcid.org/0009-0005-7038-4315), Ute Preuß, [Simon Krupka](https://orcid.org/0000-0003-1941-1734), [Udo Buchholz](https://orcid.org/0000-0001-6597-3995) und [Walter Haas](https://orcid.org/0000-0003-3413-1431)   
+[Luise Goerlitz](https://orcid.org/0009-0004-3024-6797), [Kristin Tolksdorf](https://orcid.org/0000-0002-8712-6399), [Kerstin Prahm](https://orcid.org/0009-0005-7038-4315), Ute Preuß, [Simon Krupka](https://orcid.org/0000-0003-1941-1734), [Udo Buchholz](https://orcid.org/0000-0001-6597-3995), [Walter Haas](https://orcid.org/0000-0003-3413-1431) und [Silke Buda](https://orcid.org/0000-0003-3448-3357)  
 [**Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen**](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)
 
 ---  
 
 **Zitieren**  
-Goerlitz L, Tolksdorf K, Prahm K., Preuß U, Krupka S, Buchholz U, Haas W, Buda S. (2023): ARE-Konsultationsinzidenz, Berlin: Zenodo. [DOI: 10.5281/zenodo.8340316](https://doi.org/10.5281/zenodo.8340316)  
+Goerlitz L, Tolksdorf K, Prahm K., Preuß U, Krupka S, Buchholz U, Haas W, Buda S. (2023): ARE-Konsultationsinzidenz, Berlin: Zenodo. [DOI: 10.5281/zenodo.8365628](https://doi.org/10.5281/zenodo.8365628)  
 
 
 
@@ -30,7 +30,7 @@ Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagemen
 
 Die ganzjährige syndromische Surveillance akuter respiratorischer Erkrankungen (ARE) des RKI informiert über die aktuelle Krankheitsschwere und -häufigkeit sowie den saisonalen Verlauf von akuten Atemwegserkrankungen. Dabei liegt der Fokus auf den Atemwegserkrankungen Influenza, COVID-19 und RSV-Infektionen. Dafür werden zeitnah erregerübergreifend akute Atemwegsinfektionen anhand von Symptomen bzw. Diagnosen systematisch in einem Netzwerk von Arztpraxen in Deutschland (Sentinel) erfasst. Die nationale syndromische Surveillance akuter Atemwegserkrankungen im ambulanten Bereich wird seit vielen Jahren durch das RKI durchgeführt. Dabei engagieren sich Praxen der Primärversorgung (Hausarzt- und Kinderarztpraxen) über ihre Arbeit im individualmedizinischen Bereich hinaus unentgeltlich für diesen bevölkerungsbezogenen Ansatz der Krankheitsüberwachung, -prävention und -kontrolle. Die Ergebnisse tragen zum Verständnis der Epidemiologie der Influenza, COVID-19, RSV-Infektionen und von weiteren akuten respiratorischen Erkrankungen sowie zur Entwicklung von Präventionsstrategien bei. Eine kontinuierliche ARE-Surveillance im ambulanten Bereich wird vom [ECDC](https://www.ecdc.europa.eu/) und der [WHO](https://www.who.int) empfohlen.   
 
-Zur Stärkung der syndromischen ARE-Surveillance hat das RKI neben dem klassischen Meldeweg (Übermittlung aggregierter Daten per Fax oder als Onlineeingabe) ein System zur elektronischen Erfassung von Diagnosecodes (SEED/ARE) etabliert. Im SEED/ARE-Modul werden fallbasiert Daten zu ARE anhand von ICD-10-Codes direkt aus dem Arztinformationssystem (AIS) erfasst. Die Daten werden in der Praxis automatisch pseudonymisiert und verschlüsselt und anschließend an das RKI übermittelt. Die über SEED/ARE erhobenen Daten fließen nach erfolgreicher Validierung seit der Saison 2012/13 in die syndromische ARE-Surveillance und Berichterstattung des RKI ein.   
+Zur Stärkung der syndromischen ARE-Surveillance hat das RKI neben dem klassischen Meldeweg (Übermittlung aggregierter Daten als Onlineeingabe) ein System zur elektronischen Erfassung von Diagnosecodes (SEED/ARE) etabliert. Im SEED/ARE-Modul werden fallbasiert Daten zu ARE anhand von ICD-10-Codes direkt aus dem Arztinformationssystem (AIS) erfasst. Die Daten werden in der Praxis automatisch pseudonymisiert und verschlüsselt und anschließend an das RKI übermittelt. Die über SEED/ARE erhobenen Daten fließen nach erfolgreicher Validierung seit der Saison 2012/13 in die syndromische ARE-Surveillance und Berichterstattung des RKI ein.   
 
 Weitere Informationen zur syndromischen Surveillance im ambulanten Bereich sind abrufbar:   
 - https://influenza.rki.de  
@@ -87,7 +87,7 @@ Die Daten zur Konsultationsinzidenz akuter respiratorischer Erkrankungen enthalt
 | - | - | - | - |
 |Saison |Text| `jjjj/jj` | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
 |Kalenderwoche |Text| `jjjj-Www` |Berichtswoche des RKI im ISO-8601 Format|
-| Bundesland | Text | `Bundesweit` <br> `Schleswig-Holstein` <br> ... <br> `Thüringen`|Geographische Diffenrzierung in 16 Bundesländer in Deutschland und Deutschland gesamt|
+| Bundesland | Text | `Bundesweit` <br> `Schleswig-Holstein` <br> ... <br> `Thüringen`|Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt|
 |Altersgruppe| Text |`00+`, `0-4`, `5-14`, `15-34`,&nbsp;`35-59`,&nbsp;`60+`|Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen|
 |Konsultationsinzidenz | Ganze Zahl | `≥0` | Konsultationsinzidenz akuter respiratorischer Erkrankungen |
 
