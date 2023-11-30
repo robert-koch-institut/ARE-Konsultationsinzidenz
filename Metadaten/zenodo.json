@@ -1,6 +1,6 @@
 {
   "title": "ARE-Konsultationsinzidenz",
-  "description": "Zur Einschätzung der Krankheitslast akuter Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung pro 100.000 Einwohner mit Daten aus einem Netzwerk primärversorgender Praxen in Deutschland wöchentlich berechnet (ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen, die zu einem Arztbesuch führen, sind essenziell für die Einschätzung der epidemiologischen Lage und die Entwicklung und Anpassung von Präventionsstrategien.  ",
+  "description": "<p>Zur Einschätzung der Krankheitslast akuter Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung pro 100.000 Einwohner mit Daten aus einem Netzwerk primärversorgender Praxen in Deutschland wöchentlich berechnet (ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen, die zu einem Arztbesuch führen, sind essenziell für die Einschätzung der epidemiologischen Lage und die Entwicklung und Anpassung von Präventionsstrategien.</p>\n",
   "creators": [
     {
       "name": "Goerlitz, Luise",
@@ -66,8 +66,8 @@
     "RKI",
     "Open Data"
   ],
-  "publication_date": "2023-11-23",
-  "version": "2023-11-21",
+  "publication_date": "2023-11-30",
+  "version": "2023-11-28",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -97,8 +97,8 @@
   ],
   "dates": [
     {
-      "start": "2023-11-21T08:26:53+01:00",
-      "end": "2023-11-21T08:26:53+01:00",
+      "start": "2023-11-28T09:47:18+01:00",
+      "end": "2023-11-28T09:47:18+01:00",
       "type": "Collected",
       "description": "Date when the Dataset was created"
     }
