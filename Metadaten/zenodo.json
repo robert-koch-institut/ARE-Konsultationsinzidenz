@@ -66,8 +66,8 @@
     "RKI",
     "Open Data"
   ],
-  "publication_date": "2023-12-14",
-  "version": "2023-12-12",
+  "publication_date": "2023-12-21",
+  "version": "2023-12-19",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -97,8 +97,8 @@
   ],
   "dates": [
     {
-      "start": "2023-12-12T08:44:38+01:00",
-      "end": "2023-12-12T08:44:38+01:00",
+      "start": "2023-12-19T09:27:37+01:00",
+      "end": "2023-12-19T09:27:37+01:00",
       "type": "Collected",
       "description": "Date when the Dataset was created"
     }
