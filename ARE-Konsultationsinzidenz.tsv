@@ -9675,8 +9675,8 @@ Saison	Kalenderwoche	Bundesland	Bundesland_ID	Altersgruppe	ARE_Konsultationsinzi
 2023/24	2023-W52	Hamburg	2	0-4	2202
 2023/24	2023-W52	Hamburg	2	5-14	697
 2023/24	2023-W52	Hamburg	2	15-34	22
-2023/24	2023-W52	Hamburg	2	60+	
-2023/24	2023-W52	Hamburg	2	35-59	
+2023/24	2023-W52	Hamburg	2	60+	0
+2023/24	2023-W52	Hamburg	2	35-59	0
 2023/24	2023-W52	Niedersachsen	3	00+	1495
 2023/24	2023-W52	Niedersachsen	3	0-4	4885
 2023/24	2023-W52	Niedersachsen	3	5-14	1619
