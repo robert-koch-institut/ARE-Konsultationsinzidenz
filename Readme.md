@@ -87,9 +87,10 @@ Die Daten zur Konsultationsinzidenz akuter respiratorischer Erkrankungen enthalt
 | - | - | - | - |
 |Saison |Text| `jjjj/jj` | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
 |Kalenderwoche |Text| `jjjj-Www` |Berichtswoche des RKI im ISO-8601 Format|
-| Bundesland | Text | `Bundesweit` <br> `Schleswig-Holstein` <br> ... <br> `Thueringen`|Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt|
+|Bundesland | Text | `Bundesweit` <br> `Schleswig-Holstein` <br> ... <br> `Thueringen`|Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt|
+|Bundesland_ID | Natürliche Zahl | `0 - 16` | Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht
 |Altersgruppe| Text |`00+`, `0-4`, `5-14`, `15-34`,&nbsp;`35-59`,&nbsp;`60+`|Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen|
-|Konsultationsinzidenz | Ganze Zahl | `≥0` | Konsultationsinzidenz akuter respiratorischer Erkrankungen |
+|ARE_Konsultationsinzidenz | Ganze Zahl | `≥0` | Konsultationsinzidenz akuter respiratorischer Erkrankungen |
 
 ### Formatierung
 Die Daten sind im Datensatz als tabseparierte Datei (TSV) enthalten. Der verwendete Zeichensatz der TSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab "\t".  
