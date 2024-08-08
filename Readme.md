@@ -14,7 +14,7 @@ Nordufer 20
 ---  
 
 **Zitieren**  
-Goerlitz L, Tolksdorf K, Prahm K., Preuß U, Krupka S, Buchholz U, Haas W, Buda S. (**2024**): ARE-Konsultationsinzidenz, Berlin: Zenodo. [DOI: 10.5281/zenodo.13148520](https://doi.org/10.5281/zenodo.13148520)  
+Goerlitz L, Tolksdorf K, Prahm K., Preuß U, Krupka S, Buchholz U, Haas W, Buda S. (**2024**): ARE-Konsultationsinzidenz, Berlin: Zenodo. [DOI: 10.5281/zenodo.13268356](https://doi.org/10.5281/zenodo.13268356)  
 
 
 
