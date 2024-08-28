@@ -1,0 +1,49 @@
+{
+  "fields": [
+    {
+      "name": "Saison",
+      "type": "string",
+      "description": "Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39)"
+    },
+    {
+      "name": "Kalenderwoche",
+      "type": "string",
+      "description": "Berichtswoche des RKI im ISO-8601 Format"
+    },
+    {
+      "name": "Bundesland",
+      "type": "string",
+      "description": "Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt"
+    },
+    {
+      "name": "Bundesland_ID",
+      "type": "integer",
+      "description": "Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht"
+    },
+    {
+      "name": "Altersgruppe",
+      "type": "string",
+      "description": "Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen",
+      "constraints": {
+        "enum": [
+          [
+            "00+",
+            "0-4",
+            "5-14",
+            "15-34",
+            "35-59",
+            "60+"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "ARE_Konsultationsinzidenz",
+      "type": "integer",
+      "description": "Konsultationsinzidenz akuter respiratorischer Erkrankungen",
+      "constraints": {
+        "minimum": 0
+      }
+    }
+  ]
+}
