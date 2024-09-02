@@ -2,23 +2,50 @@
   "fields": [
     {
       "name": "Saison",
-      "type": "string",
-      "description": "Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39)"
+      "type": "date",
+      "description": "Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39)",
+      "format": "%Y/%y"
     },
     {
       "name": "Kalenderwoche",
-      "type": "string",
-      "description": "Berichtswoche des RKI im ISO-8601 Format"
+      "type": "date",
+      "description": "Berichtswoche des RKI im ISO-8601 Format",
+      "format": "%Y-W%W"
     },
     {
       "name": "Bundesland",
       "type": "string",
-      "description": "Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt"
+      "description": "Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt",
+      "constraints": {
+        "enum": [
+          "Baden-Wuerttemberg",
+          "Bayern",
+          "Berlin",
+          "Brandenburg",
+          "Bremen",
+          "Hamburg",
+          "Hessen",
+          "Mecklenburg-Vorpommern",
+          "Niedersachsen",
+          "Nordrhein-Westfalen",
+          "Rheinland-Pfalz",
+          "Saarland",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein",
+          "Thueringen",
+          "Bundesweit"
+        ]
+      }
     },
     {
       "name": "Bundesland_ID",
       "type": "integer",
-      "description": "Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht"
+      "description": "Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 16
+      }
     },
     {
       "name": "Altersgruppe",
@@ -26,14 +53,12 @@
       "description": "Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen",
       "constraints": {
         "enum": [
-          [
-            "00+",
-            "0-4",
-            "5-14",
-            "15-34",
-            "35-59",
-            "60+"
-          ]
+          "00+",
+          "0-4",
+          "5-14",
+          "15-34",
+          "35-59",
+          "60+"
         ]
       }
     },

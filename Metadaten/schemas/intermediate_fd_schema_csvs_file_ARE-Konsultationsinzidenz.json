@@ -2,20 +2,21 @@
   "fields": [
     {
       "name": "Saison",
-      "type": "date",
-      "description": "Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39)",
-      "format": "%Y/%y"
+      "type": "string",
+      "constraints": {
+        "pattern": "[0-9]{4}/[0-9]{2}"
+      }
     },
     {
       "name": "Kalenderwoche",
-      "type": "date",
-      "description": "Berichtswoche des RKI im ISO-8601 Format",
-      "format": "%Y-W%W"
+      "type": "string",
+      "constraints": {
+        "pattern": "[0-9]{4}-W(0[1-9]{1}|[1-4]{1}[0-9]{1}|5[0-3]{1})"
+      }
     },
     {
       "name": "Bundesland",
       "type": "string",
-      "description": "Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt",
       "constraints": {
         "enum": [
           "Baden-Wuerttemberg",
@@ -23,6 +24,7 @@
           "Berlin",
           "Brandenburg",
           "Bremen",
+          "Bundesweit",
           "Hamburg",
           "Hessen",
           "Mecklenburg-Vorpommern",
@@ -33,15 +35,13 @@
           "Sachsen",
           "Sachsen-Anhalt",
           "Schleswig-Holstein",
-          "Thueringen",
-          "Bundesweit"
+          "Thueringen"
         ]
       }
     },
     {
       "name": "Bundesland_ID",
       "type": "integer",
-      "description": "Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht",
       "constraints": {
         "minimum": 0,
         "maximum": 16
@@ -50,14 +50,13 @@
     {
       "name": "Altersgruppe",
       "type": "string",
-      "description": "Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen",
       "constraints": {
         "enum": [
-          "00+",
           "0-4",
-          "5-14",
+          "00+",
           "15-34",
           "35-59",
+          "5-14",
           "60+"
         ]
       }
@@ -65,7 +64,6 @@
     {
       "name": "ARE_Konsultationsinzidenz",
       "type": "integer",
-      "description": "Konsultationsinzidenz akuter respiratorischer Erkrankungen",
       "constraints": {
         "minimum": 0
       }
