@@ -87,12 +87,16 @@ Die Daten zur Konsultationsinzidenz akuter respiratorischer Erkrankungen enthalt
 
 | Variable                  | Typ     | Ausprägungen                                                                                     | Beschreibung                                                                                                             |
 |:--------------------------|:--------|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| Saison                    | date    | Format: `YYYY/%y`                                                                                | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
+| Saison                    | date    | Format: `YYYY/YY`                                                                                | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
 | Kalenderwoche             | date    | Format: `YYYY-Www`                                                                               | Berichtswoche des RKI im ISO-8601 Format                                                                                 |
 | Bundesland                | string  | Werte: `Baden-Wuerttemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt                                   |
-| Bundesland_ID             | integer | Minimum: 0<br>Maximum: 16                                                                        | Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht |
+| Bundesland_ID             | integer | Werte: ≥0 und ≤16                                                                                | Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht |
 | Altersgruppe              | string  | Werte: `00+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`                                             | Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen                                                        |
-| ARE_Konsultationsinzidenz | integer | Minimum: 0                                                                                       | Konsultationsinzidenz akuter respiratorischer Erkrankungen                                                               |
+| ARE_Konsultationsinzidenz | integer | Werte: ≥0                                                                                        | Konsultationsinzidenz akuter respiratorischer Erkrankungen                                                               |
+
+
+
+
 
 Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_ARE-Konsultationsinzidenz.json`](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_ARE-Konsultationsinzidenz.json).
 
