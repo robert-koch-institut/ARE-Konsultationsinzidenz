@@ -1,0 +1,17 @@
+{
+  "name": "10.5281/zenodo.8340315",
+  "title": "ARE-Konsultationsinzidenz",
+  "description": "Diese Datei gibt eine Übersicht über alle Datensätze in diesem Open Data Repository. Informationen zum Frictionless Data Standard finden Sie unter https://specs.frictionlessdata.io/ und https://framework.frictionlessdata.io/. Mehr Information über diesen Datensatz finden sie auf Zenodo (https://doi.org/10.5281/zenodo.8340315) oder Github (https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz)",
+  "homepage": "https://doi.org/10.5281/zenodo.8340315",
+  "resources": [
+    {
+      "name": "are-konsultationsinzidenz",
+      "type": "table",
+      "path": "../ARE-Konsultationsinzidenz.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "schemas/frictionless_data_schema_ARE-Konsultationsinzidenz.json"
+    }
+  ]
+}
