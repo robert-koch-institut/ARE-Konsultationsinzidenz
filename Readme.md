@@ -85,6 +85,12 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 
 Die Daten zur Konsultationsinzidenz akuter respiratorischer Erkrankungen enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:  
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "ARE-Konsultationsinzidenz", "lang": "de"} -->
+
+Die Datei [ARE-Konsultationsinzidenz.tsv](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/ARE-Konsultationsinzidenz.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_ARE-Konsultationsinzidenz.json) hinterlegt:
+> [frictionless_data_schema_ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_ARE-Konsultationsinzidenz.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable                  | Typ     | Ausprägungen                                                                                     | Beschreibung                                                                                                             |
 |:--------------------------|:--------|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | Saison                    | date    | Format: `YYYY/YY`                                                                                | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
@@ -94,11 +100,14 @@ Die Daten zur Konsultationsinzidenz akuter respiratorischer Erkrankungen enthalt
 | Altersgruppe              | string  | Werte: `00+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`                                             | Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen                                                        |
 | ARE_Konsultationsinzidenz | integer | Werte: ≥0                                                                                        | Konsultationsinzidenz akuter respiratorischer Erkrankungen                                                               |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_ARE-Konsultationsinzidenz.json`](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_ARE-Konsultationsinzidenz.json).
+
 
 
 ### Formatierung
