@@ -83,8 +83,6 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 
 ### Variablen und Variablenausprägungen  
 
-Die Daten zur Konsultationsinzidenz akuter respiratorischer Erkrankungen enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:  
-
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "ARE-Konsultationsinzidenz", "lang": "de"} -->
 
 Die Datei [ARE-Konsultationsinzidenz.tsv](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/ARE-Konsultationsinzidenz.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_ARE-Konsultationsinzidenz.json) hinterlegt:
@@ -103,11 +101,6 @@ Die Datei [ARE-Konsultationsinzidenz.tsv](https://github.com/robert-koch-institu
 <!-- DATA_SCHEMA_TABLE_END -->
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
-
-
-
-
-
 
 
 ### Formatierung
