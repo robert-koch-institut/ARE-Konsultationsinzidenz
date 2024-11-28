@@ -85,8 +85,8 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "ARE-Konsultationsinzidenz", "lang": "de"} -->
 
-Die Datei [ARE-Konsultationsinzidenz.tsv](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/ARE-Konsultationsinzidenz.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_ARE-Konsultationsinzidenz.json) hinterlegt:
-> [frictionless_data_schema_ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_ARE-Konsultationsinzidenz.json)
+Die Datei [ARE-Konsultationsinzidenz.tsv](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/ARE-Konsultationsinzidenz.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_ARE-Konsultationsinzidenz.json) hinterlegt:
+> [tableschema_ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_ARE-Konsultationsinzidenz.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable                  | Typ     | Ausprägungen                                                                                     | Beschreibung                                                                                                             |
