@@ -10,7 +10,7 @@ abstract: >-
   akuten Atemwegserkrankungen, die zu einem Arztbesuch führen, sind essenziell
   für die Einschätzung der epidemiologischen Lage und die Entwicklung und
   Anpassung von Präventionsstrategien.  
-date-released: '2024-12-26'
+date-released: '2025-01-02'
 keywords:
   - Akute Atemwegserkrankungen
   - ARE
@@ -40,7 +40,7 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/ARE-Konsultationsinzidenz/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.14557340
+doi: 10.5281/zenodo.14586581
 version: '2024-12-17T10:08:56+01:00'
 authors:
   - family-names: Goerlitz
