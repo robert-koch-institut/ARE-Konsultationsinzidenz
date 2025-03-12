@@ -9,7 +9,7 @@ Nordufer 20
   
 [**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Simon Krupka**](https://orcid.org/0000-0003-1941-1734)&sup1;, [**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1; und [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;   
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
+&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html)  
 
 ---  
 
@@ -25,9 +25,9 @@ Zur Einschätzung der Krankheitslast akuter Atemwegsinfektionen im ambulanten Be
 
 ### Administrative und organisatorische Angaben  
 
-Die zugrundeliegenden Daten werden von den Sentinel-Praxen der Arbeitsgemeinschaft Influenza (AGI) erhoben und wöchentlich an das Robert Koch-Institut (RKI) berichtet. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html) des RKI.  
+Die zugrundeliegenden Daten werden von den Sentinel-Praxen der Arbeitsgemeinschaft Influenza (AGI) erhoben und wöchentlich an das Robert Koch-Institut (RKI) berichtet. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html) des RKI.  
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html). Fragen zum Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:opendata@rki.de).  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:opendata@rki.de).  
 
 ### Entstehungskontext  
 
@@ -37,7 +37,7 @@ Zur Stärkung der syndromischen ARE-Surveillance hat das RKI neben dem klassisch
 
 Weitere Informationen zur syndromischen Surveillance im ambulanten Bereich sind abrufbar:   
 - https://influenza.rki.de  
-- [RKI - ARE-Praxis-Sentinel](https://www.rki.de/DE/Content/Infekt/Sentinel/ARE-Praxis-Sentinel/node.html)  
+- [RKI - ARE-Praxis-Sentinel](https://www.rki.de/DE/Themen/Forschung-und-Forschungsdaten/Sentinels-Surveillance-Panel/ARE-Praxis-Sentinel/ARE-Praxis-Sentinel.html)  
 
 
 ### Datenauswertung und Aufbereitung  
