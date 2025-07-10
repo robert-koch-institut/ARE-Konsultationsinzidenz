@@ -66,8 +66,8 @@
     "RKI",
     "Open Data"
   ],
-  "publication_date": "2025-07-03",
-  "version": "2025-07-01",
+  "publication_date": "2025-07-10",
+  "version": "2025-07-08",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -97,8 +97,8 @@
   ],
   "dates": [
     {
-      "start": "2025-07-01T10:25:40+02:00",
-      "end": "2025-07-01T10:25:40+02:00",
+      "start": "2025-07-08T10:48:33+02:00",
+      "end": "2025-07-08T10:48:33+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
