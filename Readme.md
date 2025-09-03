@@ -1,22 +1,44 @@
-Datensatzdokumentation  
-# ARE-Konsultationsinzidenz  
+<!-- HEADER_START: {"lang": "de"} -->
 
-[Robert Koch-Institut | RKI](Https://rki.de)  
-Nordufer 20  
-13353 Berlin  
- 
-<br>
-  
-[**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Simon Krupka**](https://orcid.org/0000-0003-1941-1734)&sup1;, [**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1; und [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;   
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html)  
+Dokumentation  
+# ARE-Konsultationsinzidenz
 
----  
+<br> 
+<br> 
+<br> 
+
+[**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Simon Krupka**](https://orcid.org/0000-0003-1941-1734)&sup1;, **Juliane Wunderlich**&sup1;, [**Tamar Gvaladze**](https://orcid.org/0009-0007-4442-9633)&sup1;, [**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;, & [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;
+
+<br> 
+
+
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 36](https://www.rki.de/fg36)
+
+<br> 
 
 **Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Buchholz, U., Haas, W., & Buda, S. (2025). ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16978126](https://doi.org/10.5281/zenodo.16978126)
-<!-- CITATION_END -->
+Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2025). ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16978126](https://doi.org/10.5281/zenodo.16978126)
+
+<br>
+
+
+**Zusammenfassung**    
+Im Datensatz "ARE-Konsultationsinzidenz" des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) in Deutschland bereitgestellt. Die Daten stammen vom ARE-Praxis-Sentinel des RKI. Hier werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung entweder einzelfallbasiert anhand von ICD-10-Diagnosecodes mit dem SEED/ARE-Modul oder aggregiert nach Altersgruppen über eine Online-Eingabemaske erfasst. Die ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen und Bundesländern ausgewiesen. Ziel ist es, die Krankheitslast und den saisonalen Verlauf von Atemwegserkrankungen wie Influenza, COVID-19 und RSV-Erkrankungen zu bewerten sowie epidemiologische Entwicklungen frühzeitig zu erkennen
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
 
 
 ## Informationen zum Datensatz und Entstehungskontext  
@@ -25,9 +47,9 @@ Zur Einschätzung der Krankheitslast akuter Atemwegsinfektionen im ambulanten Be
 
 ### Administrative und organisatorische Angaben  
 
-Die zugrundeliegenden Daten werden von den Sentinel-Praxen der Arbeitsgemeinschaft Influenza (AGI) erhoben und wöchentlich an das Robert Koch-Institut (RKI) berichtet. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html) des RKI.  
+Die zugrundeliegenden Daten werden von den Sentinel-Praxen der Arbeitsgemeinschaft Influenza (AGI) erhoben und wöchentlich an das Robert Koch-Institut (RKI) berichtet. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/fg36) des RKI.  
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:opendata@rki.de).  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:opendata@rki.de).  
 
 ### Entstehungskontext  
 
