@@ -1,6 +1,6 @@
 {
   "title": "ARE-Konsultationsinzidenz",
-  "description": "<p>Zur Einschätzung der Krankheitslast akuter Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung pro 100.000 Einwohner mit Daten aus einem Netzwerk primärversorgender Praxen in Deutschland wöchentlich berechnet (ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen, die zu einem Arztbesuch führen, sind essenziell für die Einschätzung der epidemiologischen Lage und die Entwicklung und Anpassung von Präventionsstrategien.</p>\n",
+  "description": "<p>Im Datensatz &quot;ARE-Konsultationsinzidenz&quot; des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) in Deutschland bereitgestellt. Die Daten stammen vom ARE-Praxis-Sentinel des RKI. Hier werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung entweder einzelfallbasiert anhand von ICD-10-Diagnosecodes mit dem SEED/ARE-Modul oder aggregiert nach Altersgruppen über eine Online-Eingabemaske erfasst. Die ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen und Bundesländern ausgewiesen. Ziel ist es, die Krankheitslast und den saisonalen Verlauf von Atemwegserkrankungen wie Influenza, COVID-19 und RSV-Erkrankungen zu bewerten sowie epidemiologische Entwicklungen frühzeitig zu erkennen</p>\n",
   "creators": [
     {
       "name": "Goerlitz, Luise",
@@ -25,6 +25,15 @@
       "name": "Krupka, Simon",
       "affiliation": "Robert Koch-Institut",
       "orcid": "0000-0003-1941-1734"
+    },
+    {
+      "name": "Wunderlich, Juliane",
+      "affiliation": "Robert Koch-Institut"
+    },
+    {
+      "name": "Gvaladze, Tamar",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0009-0007-4442-9633"
     },
     {
       "name": "Buchholz, Udo",
@@ -66,8 +75,8 @@
     "RKI",
     "Open Data"
   ],
-  "publication_date": "2025-08-28",
-  "version": "2025-08-26",
+  "publication_date": "2025-09-04",
+  "version": "2025-09-02",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -97,8 +106,8 @@
   ],
   "dates": [
     {
-      "start": "2025-08-26T10:18:50+02:00",
-      "end": "2025-08-26T10:18:50+02:00",
+      "start": "2025-09-02T10:10:30+02:00",
+      "end": "2025-09-02T10:10:30+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
