@@ -19,7 +19,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2025). ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17052078](https://doi.org/10.5281/zenodo.17052078)
+Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2025). ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17097446](https://doi.org/10.5281/zenodo.17097446)
 
 <br>
 

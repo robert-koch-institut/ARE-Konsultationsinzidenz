@@ -11,8 +11,8 @@
                   dcatde:maintainer [ a foaf:Agent ; foaf:mbox "opendata@rki.de" ; foaf:name "Robert Koch-Institut | Open Data Team"] ;
                   dcatde:contributor [ a foaf:Person; foaf:name "Luise Goerlitz"; foaf:account <http://orcid.org/0009-0004-3024-6797>; ],[ a foaf:Person; foaf:name "Kristin Tolksdorf"; foaf:account <http://orcid.org/0000-0002-8712-6399>; ],[ a foaf:Person; foaf:name "Kerstin Prahm"; foaf:account <http://orcid.org/0009-0005-7038-4315>; ],[ a foaf:Person; foaf:name "Ute Preuß" ],[ a foaf:Person; foaf:name "Simon Krupka"; foaf:account <http://orcid.org/0000-0003-1941-1734>; ],[ a foaf:Person; foaf:name "Juliane Wunderlich" ],[ a foaf:Person; foaf:name "Tamar Gvaladze"; foaf:account <http://orcid.org/0009-0007-4442-9633>; ],[ a foaf:Person; foaf:name "Udo Buchholz"; foaf:account <http://orcid.org/0000-0001-6597-3995>; ],[ a foaf:Person; foaf:name "Walter Haas"; foaf:account <http://orcid.org/0000-0003-3413-1431>; ],[ a foaf:Person; foaf:name "Silke Buda"; foaf:account <http://orcid.org/0000-0003-3448-3357>; ];
                   dct:description "<p>Im Datensatz &quot;ARE-Konsultationsinzidenz&quot; des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) in Deutschland bereitgestellt. Die Daten stammen vom ARE-Praxis-Sentinel des RKI. Hier werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung entweder einzelfallbasiert anhand von ICD-10-Diagnosecodes mit dem SEED/ARE-Modul oder aggregiert nach Altersgruppen über eine Online-Eingabemaske erfasst. Die ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen und Bundesländern ausgewiesen. Ziel ist es, die Krankheitslast und den saisonalen Verlauf von Atemwegserkrankungen wie Influenza, COVID-19 und RSV-Erkrankungen zu bewerten sowie epidemiologische Entwicklungen frühzeitig zu erkennen</p>" ;
-                  dct:issued "2025-09-04T09:02:02+02:00"^^xsd:dateTime ;
-                  dct:modified "2025-09-02T10:10:30+02:00"^^xsd:dateTime ;
+                  dct:issued "2025-09-11T09:02:01+02:00"^^xsd:dateTime ;
+                  dct:modified "2025-09-09T11:03:07+02:00"^^xsd:dateTime ;
                   dct:publisher [ a foaf:Organization ;
                       foaf:mbox "opendata@rki.de" ;
                       foaf:name "Robert Koch Institut"
@@ -34,35 +34,35 @@
                   dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0>;
                   dcat:distribution [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Goerlitz, Luise et. al. (2025): ARE-Konsultationsinzidenz, Berlin: Zenodo. DOI:10.5281/zenodo.17052078" ;
+                    dcatde:licenseAttributionByText "Goerlitz, Luise et. al. (2025): ARE-Konsultationsinzidenz, Berlin: Zenodo. DOI:10.5281/zenodo.17097446" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Github - ARE-Konsultationsinzidenz" ;
                     dcat:accessURL <https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz>;
-                    dct:modified "2025-09-04T09:02:02+02:00"^^xsd:dateTime;
+                    dct:modified "2025-09-11T09:02:01+02:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Goerlitz, Luise et. al. (2025): ARE-Konsultationsinzidenz, Berlin: Zenodo. DOI:10.5281/zenodo.17052078" ;
+                    dcatde:licenseAttributionByText "Goerlitz, Luise et. al. (2025): ARE-Konsultationsinzidenz, Berlin: Zenodo. DOI:10.5281/zenodo.17097446" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Zenodo - ARE-Konsultationsinzidenz" ;
                     dcat:accessURL <https://zenodo.org/record/8340316>;
-                    dct:modified "2025-09-04T09:02:02+02:00"^^xsd:dateTime;
+                    dct:modified "2025-09-11T09:02:01+02:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
                     dct:title "[Dokumentation] ARE-Konsultationsinzidenz.pdf" ;
-                    dcatde:licenseAttributionByText "Goerlitz, Luise et. al. (2025): ARE-Konsultationsinzidenz, Berlin: Zenodo. DOI:10.5281/zenodo.17052078" ;
+                    dcatde:licenseAttributionByText "Goerlitz, Luise et. al. (2025): ARE-Konsultationsinzidenz, Berlin: Zenodo. DOI:10.5281/zenodo.17097446" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'ARE-Konsultationsinzidenz' bereitgestellten Daten" ;
                     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dcat:accessURL <https://zenodo.org/record/8340316/files/%5BDokumentation%5D_ARE-Konsultationsinzidenz.pdf>;
-                    dct:modified "2025-09-04T09:02:02+02:00"^^xsd:dateTime;
+                    dct:modified "2025-09-11T09:02:01+02:00"^^xsd:dateTime;
                   ].
