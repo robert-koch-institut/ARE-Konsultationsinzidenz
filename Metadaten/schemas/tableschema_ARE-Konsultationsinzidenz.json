@@ -66,6 +66,9 @@
       "name": "ARE_Konsultationsinzidenz",
       "type": "integer",
       "description": "Konsultationsinzidenz akuter respiratorischer Erkrankungen",
+      "missingValues": [
+        "NA"
+      ],
       "constraints": {
         "minimum": 0
       }
