@@ -57,7 +57,8 @@ Die ganzjährige syndromische Surveillance akuter respiratorischer Erkrankungen 
 
 Zur Stärkung der syndromischen ARE-Surveillance hat das RKI neben dem klassischen Meldeweg (Übermittlung aggregierter Daten als Onlineeingabe) ein System zur elektronischen Erfassung von Diagnosecodes (SEED/ARE) etabliert. Im SEED/ARE-Modul werden fallbasiert Daten zu ARE anhand von ICD-10-Codes direkt aus dem Arztinformationssystem (AIS) erfasst. Die Daten werden in der Praxis automatisch pseudonymisiert und verschlüsselt und anschließend an das RKI übermittelt. Die über SEED/ARE erhobenen Daten fließen nach erfolgreicher Validierung seit der Saison 2012/13 in die syndromische ARE-Surveillance und Berichterstattung des RKI ein.   
 
-Weitere Informationen zur syndromischen Surveillance im ambulanten Bereich sind abrufbar:   
+Weitere Informationen zur syndromischen Surveillance im ambulanten Bereich sind abrufbar:  
+
 - https://influenza.rki.de  
 - [RKI - ARE-Praxis-Sentinel](https://www.rki.de/DE/Themen/Forschung-und-Forschungsdaten/Sentinels-Surveillance-Panel/ARE-Praxis-Sentinel/ARE-Praxis-Sentinel.html)  
 
@@ -127,10 +128,10 @@ Die Datei [ARE-Konsultationsinzidenz.tsv](https://github.com/robert-koch-institu
 
 
 ### Formatierung
-Die Daten sind im Datensatz als tabseparierte Datei (TSV) enthalten. Der verwendete Zeichensatz der TSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab "\t".  
+Die Daten sind im Datensatz als Tab-separierte Datei (TSV) enthalten. Der verwendete Zeichensatz der TSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab `\t`.  
 
 - Zeichensatz: UTF-8  
-- TSV-Trennzeichen: Tab "\t"  
+- TSV-Trennzeichen: Tab `\t`  
 
 
 <!-- FOOTER_START: {"lang": "de"} -->
