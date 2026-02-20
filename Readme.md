@@ -120,12 +120,12 @@ Die Datei [ARE-Konsultationsinzidenz.tsv](https://github.com/robert-koch-institu
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable                  | Typ     | Ausprägungen                                                                                        | Beschreibung                                                                                                             |
 |:--------------------------|:--------|:----------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| Saison                    | date    | Format: `YYYY/YY`                                                                                   | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
-| Kalenderwoche             | date    | Format: `YYYY-Www`                                                                                  | Berichtswoche des RKI im ISO-8601 Format                                                                                 |
+| Saison                    | date    | Format:<br>`YYYY/YY`                                                                                | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
+| Kalenderwoche             | date    | Format:<br>`YYYY-Www`                                                                               | Berichtswoche des RKI im ISO-8601 Format                                                                                 |
 | Bundesland                | string  | Werte:<br>`Baden-Wuerttemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt                                   |
-| Bundesland_ID             | integer | Werte: `0` - `16`                                                                                   | Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht |
+| Bundesland_ID             | integer | Werte:<br>`0` - `16`                                                                                | Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht |
 | Altersgruppe              | string  | Werte:<br>`00+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`                                             | Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen                                                        |
-| ARE_Konsultationsinzidenz | integer | Werte: `≥0`<br>Fehlende Werte:<br>`NA`                                                              | Konsultationsinzidenz akuter respiratorischer Erkrankungen                                                               |
+| ARE_Konsultationsinzidenz | integer | Werte:<br>`≥0`<br>Fehlende Werte:<br>`NA`                                                           | Konsultationsinzidenz akuter respiratorischer Erkrankungen                                                               |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
