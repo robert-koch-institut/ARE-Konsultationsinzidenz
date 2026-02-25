@@ -2,6 +2,7 @@
 
 
 Dokumentation  
+
 # ARE-Konsultationsinzidenz
 
 <br> 
@@ -19,21 +20,24 @@ Dokumentation
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->  
 Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18693648](https://doi.org/10.5281/zenodo.18693648)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
 Im Datensatz "ARE-Konsultationsinzidenz" des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) in Deutschland bereitgestellt. Die Daten stammen vom ARE-Praxis-Sentinel des RKI. Hier werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung entweder einzelfallbasiert anhand von ICD-10-Diagnosecodes mit dem SEED/ARE-Modul oder aggregiert nach Altersgruppen über eine Online-Eingabemaske erfasst. Die ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen und Bundesländern ausgewiesen. Ziel ist es, die Krankheitslast und den saisonalen Verlauf von Atemwegserkrankungen wie Influenza, COVID-19 und RSV-Erkrankungen zu bewerten sowie epidemiologische Entwicklungen frühzeitig zu erkennen
 
 <br>
 
-**Inhaltsverzeichnis** 
+**Inhaltsverzeichnis**  
+
 <!-- TOC_START: {"heading_depth": 2} -->
-  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
-  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
-  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)  
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)  
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)  
 <!-- TOC_END -->
 
 <br>
@@ -57,7 +61,8 @@ Die ganzjährige syndromische Surveillance akuter respiratorischer Erkrankungen 
 
 Zur Stärkung der syndromischen ARE-Surveillance hat das RKI neben dem klassischen Meldeweg (Übermittlung aggregierter Daten als Onlineeingabe) ein System zur elektronischen Erfassung von Diagnosecodes (SEED/ARE) etabliert. Im SEED/ARE-Modul werden fallbasiert Daten zu ARE anhand von ICD-10-Codes direkt aus dem Arztinformationssystem (AIS) erfasst. Die Daten werden in der Praxis automatisch pseudonymisiert und verschlüsselt und anschließend an das RKI übermittelt. Die über SEED/ARE erhobenen Daten fließen nach erfolgreicher Validierung seit der Saison 2012/13 in die syndromische ARE-Surveillance und Berichterstattung des RKI ein.   
 
-Weitere Informationen zur syndromischen Surveillance im ambulanten Bereich sind abrufbar:   
+Weitere Informationen zur syndromischen Surveillance im ambulanten Bereich sind abrufbar:  
+
 - https://influenza.rki.de  
 - [RKI - ARE-Praxis-Sentinel](https://www.rki.de/DE/Themen/Forschung-und-Forschungsdaten/Sentinels-Surveillance-Panel/ARE-Praxis-Sentinel/ARE-Praxis-Sentinel.html)  
 
@@ -66,7 +71,7 @@ Weitere Informationen zur syndromischen Surveillance im ambulanten Bereich sind 
 
 Zur Einschätzung der Krankheitslast symptomatischer Erkrankungen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung wöchentlich mithilfe der AGI-Daten berechnet (ARE-Konsultationsinzidenz). In der AGI liegt eine ARE vor, wenn infolge einer ärztlichen Konsultation für die jeweiligen Patienten und Patientinnen entweder ein klinisches Syndrom erfasst wurde, definiert als: Akute Pharyngitis, Bronchitis oder Pneumonie, jeweils mit oder ohne Fieber oder mindestens einer der folgenden ICD-10-Codes im AIS eingetragen wurde: J00 – J06 (Akute Infektionen der oberen Atemwege), J09 – J18 (Grippe und Pneumonie), J20 – J22 (Sonstige akute Infektionen der unteren Atemwege), J44.0 (Chronische obstruktive Lungenkrankheit mit akuter Infektion der unteren Atemwege), B34.9 (Virusinfektion, nicht näher bezeichnet).   
 
-Die Konsultationsinzidenz ist die geschätzte wöchentliche Anzahl der Patienten, die sich wegen einer neu aufgetretenen akuten Atemwegserkrankung bei einem Arzt/einer Ärztin in der Praxis vorstellen, bezogen auf die Bevölkerung. ARE innerhalb von zwei Wochen werden als Konsultationen infolge oder mit der gleichen ARE-Erkrankung gewertet, erst nach einem Zeitraum von 14 Tagen wird eine erneute Konsultation mit ARE wieder als eine „Neuerkrankung“ (Erstkonsultation) gezählt. Die Konsultationsinzidenz für ARE ist ganzjährig (d. h. auch z.B. außerhalb einer Influenzawelle) sehr stark altersabhängig und wird angegeben als Anzahl der sich in den Arztpraxen vorstellenden Patientinnen und Patienten mit ARE pro 100.000 Einwohner der jeweiligen Altersgruppe. Die Berechnung der Konsultationsinzidenz erfolgt wie von Köpke et al. beschrieben.  
+Die Konsultationsinzidenz ist die geschätzte wöchentliche Anzahl der Patienten, die sich wegen einer neu aufgetretenen akuten Atemwegserkrankung bei einem Arzt/einer Ärztin in der Praxis vorstellen, bezogen auf die Bevölkerung. ARE innerhalb von zwei Wochen werden als Konsultationen infolge oder mit der gleichen ARE-Erkrankung gewertet, erst nach einem Zeitraum von 14 Tagen wird eine erneute Konsultation mit ARE wieder als eine "Neuerkrankung" (Erstkonsultation) gezählt. Die Konsultationsinzidenz für ARE ist ganzjährig (d. h. auch z.B. außerhalb einer Influenzawelle) sehr stark altersabhängig und wird angegeben als Anzahl der sich in den Arztpraxen vorstellenden Patientinnen und Patienten mit ARE pro 100.000 Einwohner der jeweiligen Altersgruppe. Die Berechnung der Konsultationsinzidenz erfolgt wie von Köpke et al. beschrieben.  
 
 > Goerlitz L, Cai W, Tolksdorf K, Prahm K, Preuß U, Wolff T, Dürrwald R, Haas W, Buda S: ICD-10-Code-basierte syndromische Surveillance akuter Atemwegserkrankungen mit COVID-19 im ambulanten Bereich Epid Bull 2021;30:3 -10 | [DOI:10.25646/8849](https://www.doi.org/10.25646/8849)  
 
@@ -109,17 +114,18 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "ARE-Konsultationsinzidenz", "lang": "de"} -->
 
 Die Datei [ARE-Konsultationsinzidenz.tsv](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/ARE-Konsultationsinzidenz.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_ARE-Konsultationsinzidenz.json) hinterlegt:
+
 > [tableschema_ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_ARE-Konsultationsinzidenz.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable                  | Typ     | Ausprägungen                                                                                     | Beschreibung                                                                                                             |
-|:--------------------------|:--------|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| Saison                    | date    | Format: `YYYY/YY`                                                                                | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
-| Kalenderwoche             | date    | Format: `YYYY-Www`                                                                               | Berichtswoche des RKI im ISO-8601 Format                                                                                 |
-| Bundesland                | string  | Werte: `Baden-Wuerttemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt                                   |
-| Bundesland_ID             | integer | Werte: `0` - `16`                                                                                | Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht |
-| Altersgruppe              | string  | Werte: `00+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`                                             | Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen                                                        |
-| ARE_Konsultationsinzidenz | integer | Werte: `≥0`                                                                                      | Konsultationsinzidenz akuter respiratorischer Erkrankungen                                                               |
+| Variable                  | Typ     | Ausprägungen                                                                                        | Beschreibung                                                                                                             |
+|:--------------------------|:--------|:----------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| Saison                    | date    | Format:<br>`YYYY/YY`                                                                                | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres <br>(z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
+| Kalenderwoche             | date    | Format:<br>`YYYY-Www`                                                                               | Berichtswoche des RKI im ISO-8601 Format                                                                                 |
+| Bundesland                | string  | Werte:<br>`Baden-Wuerttemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Geographische Differenzierung in 16 Bundesländer in Deutschland und Deutschland gesamt                                   |
+| Bundesland_ID             | integer | Werte:<br>`0` - `16`                                                                                | Eindeutige Zahl für jedes Bundesland anhand des amtlichen Gemeindeschlüssel wobei `0` dem bundesweiten Gebiet entspricht |
+| Altersgruppe              | string  | Werte:<br>`00+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`                                             | Altersgruppen in Jahren.<br>`00+`: Gesamt über alle Altersgruppen                                                        |
+| ARE_Konsultationsinzidenz | integer | Werte:<br>`≥0`<br>Fehlende Werte:<br>`NA`                                                           | Konsultationsinzidenz akuter respiratorischer Erkrankungen                                                               |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -127,15 +133,13 @@ Die Datei [ARE-Konsultationsinzidenz.tsv](https://github.com/robert-koch-institu
 
 
 ### Formatierung
-Die Daten sind im Datensatz als tabseparierte Datei (TSV) enthalten. Der verwendete Zeichensatz der TSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab "\t".  
+Die Daten sind im Datensatz als Tab-separierte Datei (TSV) enthalten. Der verwendete Zeichensatz der TSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab `\t`.  
 
 - Zeichensatz: UTF-8  
-- TSV-Trennzeichen: Tab "\t"  
+- TSV-Trennzeichen: Tab `\t`  
 
 
 <!-- FOOTER_START: {"lang": "de"} -->
-
-
 
 ### Metadaten  
 
@@ -143,7 +147,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz/blob/main/Metadaten/zenodo.json)  
 
@@ -154,8 +158,8 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
 ```    
@@ -180,11 +184,13 @@ Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://d
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut  
-- https://github.com/robert-koch-institut  
-- https://gitlab.opencode.de/robert-koch-institut  
-- https://edoc.rki.de/  
- 
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)  
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)  
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)  
+- [https://edoc.rki.de/](https://edoc.rki.de/) 
+
+
+
 ### Lizenz  
 
 Der Datensatz "ARE-Konsultationsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
