@@ -21,7 +21,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa"} -->  
-Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18872583](https://doi.org/10.5281/zenodo.18872583)
+Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18977478](https://doi.org/10.5281/zenodo.18977478)
 <!-- CITATION_END -->
 
 
