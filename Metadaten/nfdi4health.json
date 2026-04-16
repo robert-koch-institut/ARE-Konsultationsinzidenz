@@ -20,15 +20,15 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.19479728",
+        "identifier": "10.5281/zenodo.19603612",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
       },
       {
         "identifier": "https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz",
-        "relationType": "A references B",
         "typeGeneral": "Dataset",
+        "relationType": "A references B",
         "scheme": "URL"
       }
     ],
@@ -61,10 +61,12 @@
         "label": "Patientenaufnahme"
       },
       {
-        "label": "Respiratory Tract Infections"
+        "label": "Respiratory Tract Infections",
+        "code": "http://id.nlm.nih.gov/mesh/D012141"
       },
       {
-        "label": "Atemwegsinfektionen"
+        "label": "Atemwegsinfektionen",
+        "code": "http://id.nlm.nih.gov/mesh/D012141"
       },
       {
         "label": "Syndromische Surveillance"
@@ -90,10 +92,12 @@
         "label": "Arbeitsgemeinschaft Influenza"
       },
       {
-        "label": "Deutschland"
+        "label": "Deutschland",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
-        "label": "Germany"
+        "label": "Germany",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
         "label": "RKI"
@@ -103,19 +107,19 @@
       },
       {
         "label": "Gesundheitsberichterstattung",
-        "code": "info:ddc/22/de//614.42"
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
       },
       {
         "label": "Epidemiologie",
-        "code": "info:ddc/22/de//614.4"
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
       },
       {
         "label": "Public health surveillance",
-        "code": "info:ddc/22/eng//614.42"
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
       },
       {
         "label": "Epidemiology",
-        "code": "info:ddc/22/eng//614.4"
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
       }
     ],
     "languages": [
@@ -131,11 +135,12 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-04-07"
+      "version": "2026-04-16"
     },
-    "webpage": "https://robert-koch-institut.github.io/ARE-Konsultationsinzidenz/",
+    "webpage": "https://robert-koch-institut.github.io/ARE-Konsultationsinzidenz",
     "contributors": [
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -147,7 +152,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Luise",
@@ -161,6 +165,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -172,7 +177,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Kristin",
@@ -186,6 +190,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -197,7 +202,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Kerstin",
@@ -211,6 +215,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -222,7 +227,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Ute",
@@ -230,6 +234,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -241,7 +246,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Simon",
@@ -255,6 +259,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -266,7 +271,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Juliane",
@@ -274,6 +278,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -285,7 +290,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Tamar",
@@ -299,6 +303,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -310,7 +315,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Udo",
@@ -324,6 +328,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -335,7 +340,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Walter",
@@ -349,6 +353,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -360,7 +365,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Silke",
