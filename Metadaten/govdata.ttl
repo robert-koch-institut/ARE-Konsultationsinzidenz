@@ -5,19 +5,19 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-<https://zenodo.org/record/19704357>
+<https://zenodo.org/record/19910142>
     a dcat:Dataset ;
     dcatde:contributor
-        <https://zenodo.org/record/19704357#author-1> ,
-        <https://zenodo.org/record/19704357#author-10> ,
-        <https://zenodo.org/record/19704357#author-2> ,
-        <https://zenodo.org/record/19704357#author-3> ,
-        <https://zenodo.org/record/19704357#author-4> ,
-        <https://zenodo.org/record/19704357#author-5> ,
-        <https://zenodo.org/record/19704357#author-6> ,
-        <https://zenodo.org/record/19704357#author-7> ,
-        <https://zenodo.org/record/19704357#author-8> ,
-        <https://zenodo.org/record/19704357#author-9> ;
+        <https://zenodo.org/record/19910142#author-1> ,
+        <https://zenodo.org/record/19910142#author-10> ,
+        <https://zenodo.org/record/19910142#author-2> ,
+        <https://zenodo.org/record/19910142#author-3> ,
+        <https://zenodo.org/record/19910142#author-4> ,
+        <https://zenodo.org/record/19910142#author-5> ,
+        <https://zenodo.org/record/19910142#author-6> ,
+        <https://zenodo.org/record/19910142#author-7> ,
+        <https://zenodo.org/record/19910142#author-8> ,
+        <https://zenodo.org/record/19910142#author-9> ;
     dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
     dcatde:maintainer
         [
@@ -26,9 +26,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             foaf:name "Robert Koch-Institut | Open Data Team" ;
         ] ;
     dct:description "<p>Im Datensatz \"ARE-Konsultationsinzidenz\" des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) in Deutschland bereitgestellt. Die Daten stammen vom ARE-Praxis-Sentinel des RKI. Hier werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung entweder einzelfallbasiert anhand von ICD-10-Diagnosecodes mit dem SEED/ARE-Modul oder aggregiert nach Altersgruppen über eine Online-Eingabemaske erfasst. Die ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen und Bundesländern ausgewiesen. Ziel ist es, die Krankheitslast und den saisonalen Verlauf von Atemwegserkrankungen wie Influenza, COVID-19 und RSV-Erkrankungen zu bewerten sowie epidemiologische Entwicklungen frühzeitig zu erkennen</p>" ;
-    dct:issued "2026-04-23T09:02:15+02:00"^^xsd:dateTime ;
+    dct:issued "2026-04-30T09:02:10+02:00"^^xsd:dateTime ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-21T09:49:09+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-28T09:56:53+02:00"^^xsd:dateTime ;
     dct:publisher
         [
             a foaf:Organization ;
@@ -47,9 +47,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             vcard:hasStreetAddress "Nordufer 20" ;
         ] ;
     dcat:distribution
-        <https://zenodo.org/record/19704357#dist-01-github> ,
-        <https://zenodo.org/record/19704357#dist-02-zenodo> ,
-        <https://zenodo.org/record/19704357#dist-03-zenodo-documentation> ;
+        <https://zenodo.org/record/19910142#dist-01-github> ,
+        <https://zenodo.org/record/19910142#dist-02-zenodo> ,
+        <https://zenodo.org/record/19910142#dist-03-zenodo-documentation> ;
     dcat:keyword
         "ARE" ,
         "Akute Atemwegserkrankungen" ,
@@ -83,97 +83,97 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <http://publications.europa.eu/resource/authority/data-theme/TECH> ;
 .
 
-<https://zenodo.org/record/19704357#author-1>
+<https://zenodo.org/record/19910142#author-1>
     a foaf:Person ;
     foaf:account <https://orcid.org/0009-0004-3024-6797> ;
     foaf:name "Luise Goerlitz" ;
 .
 
-<https://zenodo.org/record/19704357#author-10>
+<https://zenodo.org/record/19910142#author-10>
     a foaf:Person ;
     foaf:account <https://orcid.org/0000-0003-3448-3357> ;
     foaf:name "Silke Buda" ;
 .
 
-<https://zenodo.org/record/19704357#author-2>
+<https://zenodo.org/record/19910142#author-2>
     a foaf:Person ;
     foaf:account <https://orcid.org/0000-0002-8712-6399> ;
     foaf:name "Kristin Tolksdorf" ;
 .
 
-<https://zenodo.org/record/19704357#author-3>
+<https://zenodo.org/record/19910142#author-3>
     a foaf:Person ;
     foaf:account <https://orcid.org/0009-0005-7038-4315> ;
     foaf:name "Kerstin Prahm" ;
 .
 
-<https://zenodo.org/record/19704357#author-4>
+<https://zenodo.org/record/19910142#author-4>
     a foaf:Person ;
     foaf:name "Ute Preuß" ;
 .
 
-<https://zenodo.org/record/19704357#author-5>
+<https://zenodo.org/record/19910142#author-5>
     a foaf:Person ;
     foaf:account <https://orcid.org/0000-0003-1941-1734> ;
     foaf:name "Simon Krupka" ;
 .
 
-<https://zenodo.org/record/19704357#author-6>
+<https://zenodo.org/record/19910142#author-6>
     a foaf:Person ;
     foaf:name "Juliane Wunderlich" ;
 .
 
-<https://zenodo.org/record/19704357#author-7>
+<https://zenodo.org/record/19910142#author-7>
     a foaf:Person ;
     foaf:account <https://orcid.org/0009-0007-4442-9633> ;
     foaf:name "Tamar Gvaladze" ;
 .
 
-<https://zenodo.org/record/19704357#author-8>
+<https://zenodo.org/record/19910142#author-8>
     a foaf:Person ;
     foaf:account <https://orcid.org/0000-0001-6597-3995> ;
     foaf:name "Udo Buchholz" ;
 .
 
-<https://zenodo.org/record/19704357#author-9>
+<https://zenodo.org/record/19910142#author-9>
     a foaf:Person ;
     foaf:account <https://orcid.org/0000-0003-3413-1431> ;
     foaf:name "Walter Haas" ;
 .
 
-<https://zenodo.org/record/19704357#dist-01-github>
+<https://zenodo.org/record/19910142#dist-01-github>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19704357" ;
+    dcatde:licenseAttributionByText "Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19910142" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-23T09:02:15+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-30T09:02:10+02:00"^^xsd:dateTime ;
     dct:title "Github - ARE-Konsultationsinzidenz" ;
     dcat:accessURL <https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz> ;
 .
 
-<https://zenodo.org/record/19704357#dist-02-zenodo>
+<https://zenodo.org/record/19910142#dist-02-zenodo>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19704357" ;
+    dcatde:licenseAttributionByText "Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19910142" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-23T09:02:15+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-30T09:02:10+02:00"^^xsd:dateTime ;
     dct:title "Zenodo - ARE-Konsultationsinzidenz" ;
-    dcat:accessURL <https://zenodo.org/record/19704357> ;
+    dcat:accessURL <https://zenodo.org/record/19910142> ;
 .
 
-<https://zenodo.org/record/19704357#dist-03-zenodo-documentation>
+<https://zenodo.org/record/19910142#dist-03-zenodo-documentation>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19704357" ;
+    dcatde:licenseAttributionByText "Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19910142" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'ARE-Konsultationsinzidenz' bereitgestellten Daten" ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-23T09:02:15+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-30T09:02:10+02:00"^^xsd:dateTime ;
     dct:title "[Dokumentation]_ARE-Konsultationsinzidenz.pdf" ;
-    dcat:accessURL <https://zenodo.org/record/19704357/files/[Dokumentation]_ARE-Konsultationsinzidenz.pdf> ;
+    dcat:accessURL <https://zenodo.org/record/19910142/files/[Dokumentation]_ARE-Konsultationsinzidenz.pdf> ;
 .
