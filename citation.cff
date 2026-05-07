@@ -12,7 +12,7 @@ abstract: Im Datensatz "ARE-Konsultationsinzidenz" des Robert Koch-Instituts wer
   Krankheitslast und den saisonalen Verlauf von Atemwegserkrankungen wie Influenza,
   COVID-19 und RSV-Erkrankungen zu bewerten sowie epidemiologische Entwicklungen frühzeitig
   zu erkennen
-date-released: '2026-04-30'
+date-released: '2026-05-07'
 keywords:
   - Akute Atemwegserkrankungen
   - ARE
@@ -42,8 +42,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/ARE-Konsultationsinzidenz
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19910142
-version: '2026-04-28T09:56:53+02:00'
+doi: 10.5281/zenodo.20065406
+version: '2026-05-05T09:52:05+02:00'
 authors:
   - family-names: Goerlitz
     given-names: Luise
