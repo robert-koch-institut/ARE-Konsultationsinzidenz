@@ -89,8 +89,8 @@
     "Epidemiology"
   ],
   "subjects": [],
-  "publication_date": "2026-06-18",
-  "version": "2026-06-16",
+  "publication_date": "2026-06-25",
+  "version": "2026-06-23",
   "related_identifiers": [
     {
       "identifier": "https://github.com/robert-koch-institut/ARE-Konsultationsinzidenz",
@@ -105,8 +105,8 @@
   ],
   "dates": [
     {
-      "start": "2026-06-16T09:46:06+02:00",
-      "end": "2026-06-16T09:46:06+02:00",
+      "start": "2026-06-23T10:21:22+02:00",
+      "end": "2026-06-23T10:21:22+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
