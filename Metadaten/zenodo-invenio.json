@@ -4,7 +4,7 @@
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-07-09",
+  "publication_date": "2026-07-16",
   "creators": [
     {
       "person_or_org": {
@@ -99,7 +99,13 @@
       "person_or_org": {
         "type": "personal",
         "family_name": "Wunderlich",
-        "given_name": "Juliane"
+        "given_name": "Juliane",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-5818-5488"
+          }
+        ]
       },
       "affiliations": [
         {
@@ -187,10 +193,10 @@
   ],
   "contributors": [],
   "publisher": "Zenodo",
-  "version": "2026-07-09",
+  "version": "2026-07-16",
   "dates": [
     {
-      "date": "2026-07-07T09:24:54+02:00",
+      "date": "2026-07-14T09:40:33+02:00",
       "type": {
         "id": "created"
       },

@@ -9,7 +9,7 @@ Dokumentation
 <br> 
 <br> 
 
-[**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Simon Krupka**](https://orcid.org/0000-0003-1941-1734)&sup1;, **Juliane Wunderlich**&sup1;, [**Tamar Gvaladze**](https://orcid.org/0009-0007-4442-9633)&sup1;, [**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;, & [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;
+[**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Simon Krupka**](https://orcid.org/0000-0003-1941-1734)&sup1;, [**Juliane Wunderlich**](https://orcid.org/0000-0002-5818-5488)&sup1;, [**Tamar Gvaladze**](https://orcid.org/0009-0007-4442-9633)&sup1;, [**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;, & [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;
 
 <br> 
 
@@ -21,7 +21,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.21274248](https://doi.org/10.5281/zenodo.21274248)
+Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Buchholz, U., Haas, W., & Buda, S. (2026). ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.21389871](https://doi.org/10.5281/zenodo.21389871)
 <!-- CITATION_END -->
 
 
