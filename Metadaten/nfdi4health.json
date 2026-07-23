@@ -17,7 +17,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.21389871",
+        "identifier": "10.5281/zenodo.21505150",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -132,7 +132,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-07-16"
+      "version": "2026-07-23"
     },
     "webpage": "https://robert-koch-institut.github.io/ARE-Konsultationsinzidenz",
     "contributors": [
