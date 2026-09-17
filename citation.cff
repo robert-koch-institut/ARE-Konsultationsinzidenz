@@ -1,10 +1,11 @@
 cff-version: 1.2.0
 type: dataset
 title: ARE-Konsultationsinzidenz
-abstract: Im Datensatz "ARE-Konsultationsinzidenz" des Robert Koch-Instituts werden
-  wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer
-  Erkrankung (ARE) in Deutschland bereitgestellt. Die Daten stammen vom ARE-Praxis-Sentinel
-  des RKI. Hier werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen
+abstract: >-
+  Im Datensatz "ARE-Konsultationsinzidenz" des Robert Koch-Instituts werden wöchentliche
+  Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung
+  (ARE) in Deutschland bereitgestellt. Die Daten stammen vom ARE-Praxis-Sentinel des
+  RKI. Hier werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen
   und Patienten mit einer akuten Atemwegserkrankung entweder einzelfallbasiert anhand
   von ICD-10-Diagnosecodes mit dem SEED/ARE-Modul oder aggregiert nach Altersgruppen
   über eine Online-Eingabemaske erfasst. Die ARE-Konsultationsinzidenz wird pro 100.000
@@ -12,7 +13,7 @@ abstract: Im Datensatz "ARE-Konsultationsinzidenz" des Robert Koch-Instituts wer
   Krankheitslast und den saisonalen Verlauf von Atemwegserkrankungen wie Influenza,
   COVID-19 und RSV-Erkrankungen zu bewerten sowie epidemiologische Entwicklungen frühzeitig
   zu erkennen
-date-released: '2026-09-10'
+date-released: '2026-09-17'
 keywords:
   - Akute Atemwegserkrankungen
   - ARE
@@ -42,8 +43,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/ARE-Konsultationsinzidenz
 license: CC-BY-4.0
-doi: 10.5281/zenodo.22686075
-version: '2026-09-08T09:26:40+02:00'
+doi: 10.5281/zenodo.22807165
+version: '2026-09-17'
 authors:
   - family-names: Goerlitz
     given-names: Luise
