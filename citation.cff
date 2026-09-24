@@ -13,7 +13,7 @@ abstract: >-
   Krankheitslast und den saisonalen Verlauf von Atemwegserkrankungen wie Influenza,
   COVID-19 und RSV-Erkrankungen zu bewerten sowie epidemiologische Entwicklungen frühzeitig
   zu erkennen
-date-released: '2026-09-17'
+date-released: '2026-09-24'
 keywords:
   - Akute Atemwegserkrankungen
   - ARE
@@ -43,8 +43,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/ARE-Konsultationsinzidenz
 license: CC-BY-4.0
-doi: 10.5281/zenodo.22807165
-version: '2026-09-17'
+doi: 10.5281/zenodo.22932813
+version: '2026-09-24'
 authors:
   - family-names: Goerlitz
     given-names: Luise
